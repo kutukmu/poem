@@ -1,6 +1,7 @@
 The rainbow and unicorn
 green
 red
+pink
 blue
 black
 brown
