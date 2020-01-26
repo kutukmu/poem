@@ -7,3 +7,5 @@ brown
 orange
 yellow
 purple
+
+sky
