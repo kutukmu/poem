@@ -2,6 +2,7 @@ The rainbow and unicorn
 green
 red
 pink
+lemon
 blue
 black
 brown
