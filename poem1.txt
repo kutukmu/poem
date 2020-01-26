@@ -7,3 +7,4 @@ brown
 orange
 yellow
 purple
+gray
